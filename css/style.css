@@ -28,3 +28,15 @@
 }.best-deal div a button {
     background-color: #fff;
 }
+.custom-card-body {
+    margin-top: -2rem;
+}
+.custom-icon-bg {
+    background-color: #ff5821;
+}
+.second-row-mt {
+    margin-top: 5rem;
+}
+.service-card-width {
+    width: 25rem;
+}
