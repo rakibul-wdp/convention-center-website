@@ -9,6 +9,13 @@
     color: #3F87F5;
     font-weight: 600;
 }
+.package .package-heading {
+    margin-top: 3rem;
+    margin-bottom: 12rem;
+}
+.package-card-mb {
+    margin-bottom: 11rem;
+}
 .best-deal {
     bottom: 6rem;
     background-color: #3F87F5;
@@ -20,8 +27,4 @@
     box-shadow: -12px -14px 10px 8px #759fe0;
 }.best-deal div a button {
     background-color: #fff;
-}
-.package-heading {
-    margin-top: 3rem;
-    margin-bottom: 12rem;
 }
