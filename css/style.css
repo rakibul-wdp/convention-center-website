@@ -20,11 +20,11 @@
     bottom: 6rem;
     background-color: #3f87f5;
     border-radius: 2rem;
-    box-shadow: 6px 7px 10px 4px #759fe0;
+    box-shadow: 3px 6px 10px 8px #87aae1d4;
     transition: 0.2s;
 }
 .best-deal:hover {
-    box-shadow: -12px -14px 10px 8px #759fe0;
+    box-shadow: -3px -4px 10px 8px #87aae1d4;
 }
 .best-deal div a button {
     background-color: #fff;
@@ -46,8 +46,5 @@
     background-repeat: no-repeat;
     background-position: left;
     background-size: 100%;
-}
-.btn-order-now {
-    margin-top: -5rem;
-    margin-left: 3rem;
+    background-size: cover;
 }
