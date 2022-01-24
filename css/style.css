@@ -1,12 +1,12 @@
 /* google fonts  */
-@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
 
 .c-c-name {
-    font-family: 'Lobster', cursive;
+    font-family: "Lobster", cursive;
 }
 .btn-booking {
     background-color: #f5ddec;
-    color: #3F87F5;
+    color: #3f87f5;
     font-weight: 600;
 }
 .package .package-heading {
@@ -18,14 +18,15 @@
 }
 .best-deal {
     bottom: 6rem;
-    background-color: #3F87F5;
+    background-color: #3f87f5;
     border-radius: 2rem;
     box-shadow: 6px 7px 10px 4px #759fe0;
     transition: 0.2s;
 }
 .best-deal:hover {
     box-shadow: -12px -14px 10px 8px #759fe0;
-}.best-deal div a button {
+}
+.best-deal div a button {
     background-color: #fff;
 }
 .custom-card-body {
@@ -39,4 +40,14 @@
 }
 .service-card-width {
     width: 25rem;
+}
+.order-bg-image {
+    background-image: url(../images/background-image-1.jpg);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 100%;
+}
+.btn-order-now {
+    margin-top: -5rem;
+    margin-left: 3rem;
 }
